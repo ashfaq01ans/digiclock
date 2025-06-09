@@ -3,4 +3,4 @@
 edit from github <br>
 updating readme from VsCode
 <P> this is a digital clock made by using python</p>
- <B> <kbd> :) </kbd>kbd></B>
+ <B> <kbd> :) </kbd></B>
